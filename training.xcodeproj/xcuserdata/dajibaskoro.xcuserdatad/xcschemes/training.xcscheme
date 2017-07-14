@@ -61,6 +61,10 @@
             argument = "exercise1.py"
             isEnabled = "YES">
          </CommandLineArgument>
+         <CommandLineArgument
+            argument = "calculate(1, 2)"
+            isEnabled = "YES">
+         </CommandLineArgument>
       </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
