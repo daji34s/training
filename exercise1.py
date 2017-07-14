@@ -1,2 +1,2 @@
-def test(word)
+def test(word):
     print(word)
