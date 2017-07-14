@@ -1,2 +1,2 @@
-def test(word):
-    print(word)
+print('hello word')
+
